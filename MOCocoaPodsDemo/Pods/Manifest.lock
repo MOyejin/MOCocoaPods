@@ -1,0 +1,16 @@
+PODS:
+  - MOCocoaPods (1.0.0)
+
+DEPENDENCIES:
+  - MOCocoaPods
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MOCocoaPods
+
+SPEC CHECKSUMS:
+  MOCocoaPods: 1374285289d950b61d91e8557d17f43c4726943a
+
+PODFILE CHECKSUM: 1deaa0733307999684a91394a2626771fc41a6b5
+
+COCOAPODS: 1.6.1
